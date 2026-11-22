@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DonghuaBox" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/btth_primary</item>
+        <item name="colorPrimaryDark">@color/btth_primary_dark</item>
+        <item name="colorSecondary">@color/btth_jade_accent</item>
+        <item name="android:windowBackground">@color/btth_void_bg</item>
+        <item name="android:statusBarColor">@color/btth_void_bg</item>
+        <item name="android:navigationBarColor">@color/btth_void_bg</item>
+    </style>
+</resources>
