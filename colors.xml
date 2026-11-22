@@ -1,0 +1,13 @@
+<resources>
+    <!-- BTTH Theme Palette: Dark Spiritual Void, Heavenly Flame Orange & Jade Cyan -->
+    <color name="btth_primary">#FF6B00</color>
+    <color name="btth_primary_dark">#CC5500</color>
+    <color name="btth_flame_gold">#FFB703</color>
+    <color name="btth_jade_accent">#00F0FF</color>
+    <color name="btth_void_bg">#0F0E1A</color>
+    <color name="btth_surface">#1A1829</color>
+    <color name="btth_surface_elevated">#252238</color>
+    <color name="btth_text_primary">#F3F3F5</color>
+    <color name="btth_text_secondary">#94A3B8</color>
+    <color name="btth_border">#2E2B42</color>
+</resources>
